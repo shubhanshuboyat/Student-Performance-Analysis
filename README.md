@@ -62,3 +62,16 @@ Shubhanshu Boyat
 * Add larger datasets
 * Build interactive dashboards
 * Apply Machine Learning models
+## Project Visualizations
+
+### Student Ranking
+![Student Ranking](student_ranking.png)
+
+### Correlation Heatmap
+![Heatmap](heatmap.png)
+
+### Histogram
+![Histogram](histplot.png)
+
+### Grade Distribution
+![Barplot](barplot.png)
